@@ -4,7 +4,7 @@ This is my submission for Task 04, where the goal was to build a flexible system
 
 ---
 
-## 📂 What's Included
+## What's Included
 
 - `pure_python_stats.py`  
   → No external libraries. Everything from scratch using built-in Python. Took the longest but helped me understand the core logic (mean, std, frequency counts).
@@ -17,7 +17,7 @@ This is my submission for Task 04, where the goal was to build a flexible system
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 Make sure you have Python installed, then run any of the scripts from terminal or Jupyter.
 

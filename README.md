@@ -1,6 +1,6 @@
 # Task 04 – Descriptive Statistics System (Pure Python, Pandas, Polars)
 
-This is my submission for Task 04, where the goal was to build a flexible system that can generate descriptive statistics for **any CSV dataset** — not just the 2024 US election files. I focused on making all three scripts reusable, neutral, and smart enough to handle unknown column names and formats.
+This is my submission for Task 04, where the goal was to build a flexible system that can generate descriptive statistics for **any CSV dataset** not just the 2024 US election files. I focused on making all three scripts reusable, neutral, and smart enough to handle unknown column names and formats.
 
 ---
 

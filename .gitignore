@@ -1,0 +1,25 @@
+# Don't track data files
+*.csv
+*.tsv
+*.xlsx
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter checkpoint
+.ipynb_checkpoints/
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs or temp
+*.log
+*.tmp
